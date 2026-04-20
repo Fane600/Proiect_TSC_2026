@@ -46,8 +46,8 @@ InkTime este un smartwatch open-source bazat pe microcontroller-ul nRF52840 de l
 | nRF52840-QFAA | MCU + BLE | QFN-48 | [Datasheet](https://infocenter.nordicsemi.com/pdf/nRF52840_PS_v1.1.pdf) | [Link](https://jlcpcb.com/parts) |
 | BQ25180YBGR | LiPo Charger | DSBGA-8 | [Datasheet](https://www.ti.com/lit/ds/symlink/bq25180.pdf) | [Link](https://jlcpcb.com/parts) |
 | RT6160AWSC | DC/DC Buck-Boost | WLCSP | [Datasheet](https://www.richtek.com/assets/product_file/RT6160A/DS6160A-05.pdf) | [Link](https://jlcpcb.com/parts) |
-| MAX17048G+T10 | Fuel Gauge | DFN-8 | 1 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf) | [Link](https://jlcpcb.com/parts) |
-| BMA421 | Accelerometru/IMU | LGA-12 | 1 | [Datasheet](https://www.bosch-sensortec.com/products/motion-sensors/accelerometers/bma421/) | [Link](https://jlcpcb.com/parts) |
+| MAX17048G+T10 | Fuel Gauge | DFN-8 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf) | [Link](https://jlcpcb.com/parts) |
+| BMA421 | Accelerometru/IMU | LGA-12 | [Datasheet](https://www.bosch-sensortec.com/products/motion-sensors/accelerometers/bma421/) | [Link](https://jlcpcb.com/parts) |
 | DRV2605YZFR | Haptic Driver | DSBGA-12 | [Datasheet](https://www.ti.com/lit/ds/symlink/drv2605.pdf) | [Link](https://jlcpcb.com/parts) |
 | USBLC6-2SC6Y | ESD Protection | SOT23-6 | [Datasheet](https://www.st.com/resource/en/datasheet/usblc6-2.pdf) | [Link](https://jlcpcb.com/parts) |
 | DMG2305UX-7 | P-MOSFET | SOT23-3 | [Datasheet](https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf) | [Link](https://jlcpcb.com/parts) |
