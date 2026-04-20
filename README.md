@@ -82,7 +82,7 @@ BQ25180 este un charger LiPo extrem de compact (DSBGA-8), ideal pentru wearables
 
 ### Display e-Paper
 
-Display-ul Waveshare 1.54" (200x200 pixeli) comunica prin SPI cu nRF52840. Avantajul principal e consumul ultra-redus — display-ul consuma energie doar cand se actualizeaza continutul, apoi il pastreaza fara alimentare. Circuitul de drive EPD include diode Schottky (MBR0530) si un MOSFET (SI1308EDL) pentru generarea tensiunilor necesare display-ului.
+Display-ul comunica prin SPI cu nRF52840. Avantajul principal e consumul ultra-redus — display-ul consuma energie doar cand se actualizeaza continutul, apoi il pastreaza fara alimentare. Circuitul de drive EPD include diode Schottky (MBR0530) si un MOSFET (SI1308EDL) pentru generarea tensiunilor necesare display-ului.
 
 ### Senzor IMU - BMA421
 
