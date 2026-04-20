@@ -2,7 +2,7 @@
 
 ## Descriere generala
 
-InkTime este un smartwatch open-source bazat pe microcontroller-ul nRF52840 de la Nordic Semiconductor, cu display e-Paper, alimentat de o baterie LiPo. Proiectul include senzor IMU (accelerometru), motor haptic pentru feedback tactil, incarcare prin USB-C si comunicatie Bluetooth Low Energy.
+InkTime este un smartwatch open-source bazat pe microcontroller-ul nRF52840 de la Nordic Semiconductor, cu display e-Paper, alimentat de o baterie LiPo. Proiectul include senzor IMU (accelerometru), motor haptic pentru feedback tactil, incarcare prin USB-C.
 
 ## Diagrama bloc
 
