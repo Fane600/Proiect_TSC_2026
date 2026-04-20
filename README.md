@@ -41,8 +41,8 @@ InkTime este un smartwatch open-source bazat pe microcontroller-ul nRF52840 de l
 
 ## BOM (Bill of Materials)
 
-| Componenta | Valoare | Package | Cantitate | Datasheet | JLCPCB |
-|------------|---------|---------|-----------|-----------|--------|
+| Componenta | Valoare / Descriere | Package | Cantitate | Datasheet | JLCPCB |
+|------------|---------------------|---------|-----------|-----------|--------|
 | nRF52840-QFAA | MCU + BLE | QFN-48 | 1 | [Datasheet](https://infocenter.nordicsemi.com/pdf/nRF52840_PS_v1.1.pdf) | [Link](https://jlcpcb.com/parts) |
 | BQ25180YBGR | LiPo Charger | DSBGA-8 | 1 | [Datasheet](https://www.ti.com/lit/ds/symlink/bq25180.pdf) | [Link](https://jlcpcb.com/parts) |
 | RT6160AWSC | DC/DC Buck-Boost | WLCSP | 1 | [Datasheet](https://www.richtek.com/assets/product_file/RT6160A/DS6160A-05.pdf) | [Link](https://jlcpcb.com/parts) |
