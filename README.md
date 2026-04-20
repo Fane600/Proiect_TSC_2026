@@ -41,29 +41,29 @@ InkTime este un smartwatch open-source bazat pe microcontroller-ul nRF52840 de l
 
 ## BOM (Bill of Materials)
 
-| Componenta | Valoare | Package | Datasheet | JLCPCB |
-|------------|---------|---------|-----------|--------|
-| nRF52840-QFAA | MCU + BLE | QFN-48 | [Datasheet](https://infocenter.nordicsemi.com/pdf/nRF52840_PS_v1.1.pdf) | [Link](https://jlcpcb.com/parts) |
-| BQ25180YBGR | LiPo Charger | DSBGA-8 | [Datasheet](https://www.ti.com/lit/ds/symlink/bq25180.pdf) | [Link](https://jlcpcb.com/parts) |
-| RT6160AWSC | DC/DC Buck-Boost | WLCSP | [Datasheet](https://www.richtek.com/assets/product_file/RT6160A/DS6160A-05.pdf) | [Link](https://jlcpcb.com/parts) |
-| MAX17048G+T10 | Fuel Gauge | DFN-8 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf) | [Link](https://jlcpcb.com/parts) |
-| BMA421 | Accelerometru/IMU | LGA-12 | [Datasheet](https://www.bosch-sensortec.com/products/motion-sensors/accelerometers/bma421/) | [Link](https://jlcpcb.com/parts) |
-| DRV2605YZFR | Haptic Driver | DSBGA-12 | [Datasheet](https://www.ti.com/lit/ds/symlink/drv2605.pdf) | [Link](https://jlcpcb.com/parts) |
-| USBLC6-2SC6Y | ESD Protection | SOT23-6 | [Datasheet](https://www.st.com/resource/en/datasheet/usblc6-2.pdf) | [Link](https://jlcpcb.com/parts) |
-| DMG2305UX-7 | P-MOSFET | SOT23-3 | [Datasheet](https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf) | [Link](https://jlcpcb.com/parts) |
-| KH-TYPE-C-16P | USB-C Connector | SMD | - | [Link](https://jlcpcb.com/parts) |
-| 2450AT18B100E | Antena 2.4GHz | SMD | [Datasheet](https://www.johansontechnology.com/datasheets/2450AT18B100/2450AT18B100.pdf) | [Link](https://jlcpcb.com/parts) |
-| Waveshare 12561 | Display e-Paper | FPC-24 | [Datasheet](https://www.waveshare.com/w/upload/7/77/1.54inch_e-Paper_Datasheet.pdf) | - |
-| LP502030 | Baterie LiPo 250mAh | - | [Datasheet](https://www.tme.eu/Document/b9e12bf26ad0ba929a22ab5d58f022cd/AKY0106.pdf) | - |
-| FIT0774 | Mini Vibration Motor | 10x2.7mm | [Datasheet](https://www.dfrobot.com/product-2297.html) | - |
-| MBR0530 | Dioda Schottky | SOD-323 | [Datasheet](https://www.onsemi.com/pdf/datasheet/mbr0530-d.pdf) | [Link](https://jlcpcb.com/parts) |
-| Cristal 32MHz | CX2016 | 2x1.6mm | - | [Link](https://jlcpcb.com/parts) |
-| Cristal 32.768kHz | CC7V | 3.2x1.5mm | - | [Link](https://jlcpcb.com/parts) |
-| Condensatoare 0201 | 100nF, 1pF, 12pF etc. | 0201  | - | [Link](https://jlcpcb.com/parts) |
-| Condensatoare 0402 | 1uF, 4.7uF, 10uF | 0402 | - | [Link](https://jlcpcb.com/parts) |
-| Rezistoare 0201 | diverse valori | 0201 | - | [Link](https://jlcpcb.com/parts) |
-| EVP-AKE31A | Push Button | SMD | - | [Link](https://jlcpcb.com/parts) |
-| TC2030-IDC | SWD Debug Header | SMD | - | [Link](https://jlcpcb.com/parts) |
+| Componenta | Valoare | Package | Cantitate | Datasheet | JLCPCB |
+|------------|---------|---------|-----------|-----------|--------|
+| nRF52840-QFAA | MCU + BLE | QFN-48 | 1 | [Datasheet](https://infocenter.nordicsemi.com/pdf/nRF52840_PS_v1.1.pdf) | [Link](https://jlcpcb.com/parts) |
+| BQ25180YBGR | LiPo Charger | DSBGA-8 | 1 | [Datasheet](https://www.ti.com/lit/ds/symlink/bq25180.pdf) | [Link](https://jlcpcb.com/parts) |
+| RT6160AWSC | DC/DC Buck-Boost | WLCSP | 1 | [Datasheet](https://www.richtek.com/assets/product_file/RT6160A/DS6160A-05.pdf) | [Link](https://jlcpcb.com/parts) |
+| MAX17048G+T10 | Fuel Gauge | DFN-8 | 1 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf) | [Link](https://jlcpcb.com/parts) |
+| BMA421 | Accelerometru/IMU | LGA-12 | 1 | [Datasheet](https://www.bosch-sensortec.com/products/motion-sensors/accelerometers/bma421/) | [Link](https://jlcpcb.com/parts) |
+| DRV2605YZFR | Haptic Driver | DSBGA-12 | 1 | [Datasheet](https://www.ti.com/lit/ds/symlink/drv2605.pdf) | [Link](https://jlcpcb.com/parts) |
+| USBLC6-2SC6Y | ESD Protection | SOT23-6 | 1 | [Datasheet](https://www.st.com/resource/en/datasheet/usblc6-2.pdf) | [Link](https://jlcpcb.com/parts) |
+| DMG2305UX-7 | P-MOSFET | SOT23-3 | 1 | [Datasheet](https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf) | [Link](https://jlcpcb.com/parts) |
+| KH-TYPE-C-16P | USB-C Connector | SMD | 1 | - | [Link](https://jlcpcb.com/parts) |
+| 2450AT18B100E | Antena 2.4GHz | SMD | 1 | [Datasheet](https://www.johansontechnology.com/datasheets/2450AT18B100/2450AT18B100.pdf) | [Link](https://jlcpcb.com/parts) |
+| Waveshare 12561 | Display e-Paper 1.54" | FPC-24 | 1 | [Datasheet](https://www.waveshare.com/w/upload/7/77/1.54inch_e-Paper_Datasheet.pdf) | - |
+| LP502030 | Baterie LiPo 250mAh | - | 1 | [Datasheet](https://www.tme.eu/Document/b9e12bf26ad0ba929a22ab5d58f022cd/AKY0106.pdf) | - |
+| FIT0774 | Mini Vibration Motor | 10x2.7mm | 1 | [Datasheet](https://www.dfrobot.com/product-2297.html) | - |
+| MBR0530 | Dioda Schottky | SOD-323 | 3 | [Datasheet](https://www.onsemi.com/pdf/datasheet/mbr0530-d.pdf) | [Link](https://jlcpcb.com/parts) |
+| Cristal 32MHz | CX2016 | 2x1.6mm | 1 | - | [Link](https://jlcpcb.com/parts) |
+| Cristal 32.768kHz | CC7V | 3.2x1.5mm | 1 | - | [Link](https://jlcpcb.com/parts) |
+| Condensatoare 0201 | 100nF, 1pF, 12pF etc. | 0201 | ~20 | - | [Link](https://jlcpcb.com/parts) |
+| Condensatoare 0402 | 1uF, 4.7uF, 10uF | 0402 | ~15 | - | [Link](https://jlcpcb.com/parts) |
+| Rezistoare 0201 | diverse valori | 0201 | ~15 | - | [Link](https://jlcpcb.com/parts) |
+| EVP-AKE31A | Push Button | SMD | 3 | - | [Link](https://jlcpcb.com/parts) |
+| TC2030-IDC | SWD Debug Header | SMD | 1 | - | [Link](https://jlcpcb.com/parts) |
 
 ## Functionalitate hardware detaliata
 
